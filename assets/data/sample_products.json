@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Mini Katalog Ürünü",
+    "tagline": "Örnek ürün",
+    "description": "Yerel JSON dosyasından yüklenen örnek ürün.",
+    "price": "250",
+    "currency": "TL",
+    "image": "",
+    "specs": {
+      "Kategori": "Elektronik",
+      "Durum": "Yeni"
+    }
+  },
+  {
+    "id": 2,
+    "name": "İkinci Örnek Ürün",
+    "tagline": "Test ürünü",
+    "description": "JSON verisini model nesnesine dönüştürmek için kullanılır.",
+    "price": "400",
+    "currency": "TL",
+    "image": "",
+    "specs": {
+      "Kategori": "Aksesuar",
+      "Durum": "Yeni"
+    }
+  }
+]
